@@ -49,7 +49,7 @@ export default function RootLayout({
 
         {/* Local Scripts */}
         <Script src="settings.js" strategy="beforeInteractive" />
-        <Script src="src=mrpgwkk0y6b.js" type="module" strategy="beforeInteractive" />
+        <Script src="mrpgwkk0y6b.js" type="module" strategy="beforeInteractive" />
       </body>
     </html>
   )
