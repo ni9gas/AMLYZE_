@@ -5,7 +5,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "AMLYZE",
-  description: "Created with v0",
+  description: "One-Stop Compliance for your Blockchain Security",
   generator: "v0.dev",
 }
 
